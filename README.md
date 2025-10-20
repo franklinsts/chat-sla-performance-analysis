@@ -88,6 +88,7 @@ The project aims to measure **operational efficiency** and identify **bottleneck
 ## 🧱 Repository Structure  
 
 📁 chatbot-sla-performance-analysis/
+
 ├── query.sql # Main SQL analysis query
 
 ├── README.md # Full project documentation
