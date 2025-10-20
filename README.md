@@ -29,12 +29,17 @@ These parameters make the analysis flexible and reusable across different report
 
 ---
 
-📁 chatbot-sla-performance-analysis/
-├── query.sql # Main SQL analysis query
-├── README.md # Full project documentation
-├── sample_results.csv # Example dataset (optional)
-└── dashboard_preview.png # Dashboard preview (optional)
+## 🧱 Repository Structure  
 
+📁 chatbot-sla-performance-analysis/ 
+
+├── query.sql # Main SQL analysis query
+
+├── README.md # Full project documentation
+
+├── sample_results.csv # Example dataset (optional)
+
+└── dashboard_preview.png # Dashboard preview (optional)
 
 ---
 
