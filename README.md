@@ -66,7 +66,7 @@ These parameters make the analysis flexible and reusable across different report
 
 👤 **Franklin Santana dos Santos**  
 🔗 [GitHub - franklinsts](https://github.com/franklinsts)  
-💼 Senior Customer Experience Analyst • Data Analysis Focus  
+💼 Business Analyst • Data Analysis Focus  
 📊 SQL | Databricks | Looker Studio | Google Sheets | Data Automation  
 
 ---
