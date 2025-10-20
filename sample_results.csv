@@ -1,0 +1,6 @@
+granularity,day_of_week,offered,sla_compliance,productive_actions,headcount,productivity_per_agent,handled,productivity,productivity_ratio,closed_volume,transferred_volume,avg_response_time,avg_handling_time,backlog_24h,backlog_48h,backlog_72h,backlog_above_72h,total_handling_time,avg_total_handling_time
+2025-10-01,Wednesday,1240,1080,4200,100,42.0,1100,380,0.345,500,200,18.5,17.2,300,150,50,20,25000,20.16
+2025-10-02,Thursday,1130,950,3900,95,41.1,1020,360,0.353,470,180,19.0,16.8,280,130,60,25,23000,20.10
+2025-10-03,Friday,1550,1410,4400,110,40.0,1380,410,0.297,600,220,17.5,18.0,350,200,70,30,28000,20.0
+2025-10-04,Saturday,900,780,3100,80,38.7,820,300,0.366,350,120,20.2,19.5,200,100,40,15,18000,20.0
+2025-10-05,Sunday,1350,1200,4100,105,39.0,1250,390,0.312,550,210,18.0,17.8,300,150,60,20,25000,20.8
