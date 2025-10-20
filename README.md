@@ -122,6 +122,6 @@ These parameters make the analysis flexible and applicable to multiple periods.
 
 👤 **Franklin Santana dos Santos**  
 🔗 [GitHub - franklinsts](https://github.com/franklinsts)  
-💼 Senior Customer Experience Analyst • Focused on Data Analysis  
+💼 Business Analyst • Focused on Data Analysis  
 📊 SQL | Databricks | Looker Studio | Google Sheets | Data Automation  
 
